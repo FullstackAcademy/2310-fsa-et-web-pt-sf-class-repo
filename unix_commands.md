@@ -6,3 +6,4 @@ cat: print output of file
 pwd: list current path of current working directory
 nano: edit file in nano editor
 touch: create empty file
+ssh-add: adds ssh key
