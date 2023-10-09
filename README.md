@@ -7,3 +7,4 @@ This is our class repository. As class goes on, video links to lectures, code fr
 | Topic    |  Date   |                    Link                    |
 |----------|:-------:|:------------------------------------------:|
 | Syllabus | 10.2.23 | [Recording](https://youtu.be/qZD5EhHtseg)  |
+| CLI      | 10.5.23 | [Recording](https://youtu.be/S-ubWKYYrHg)  |
