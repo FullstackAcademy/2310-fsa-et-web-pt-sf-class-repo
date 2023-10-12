@@ -1,0 +1,13 @@
+table {
+    border: 10px solid red;
+}
+
+/* id */
+#coffee, .item {
+    color: brown;
+}
+/* class */
+
+.item {
+    font-size: 50px;
+}
