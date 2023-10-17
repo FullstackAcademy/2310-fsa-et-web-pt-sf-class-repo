@@ -4,11 +4,12 @@ This is our class repository. As class goes on, video links to lectures, code fr
 
 ## Recordings
 
-| Topic                         |   Date   |                    Link                    |
-|-------------------------------|:--------:|:------------------------------------------:|
-| Syllabus                      | 10.2.23  | [Recording](https://youtu.be/qZD5EhHtseg)  |
-| CLI                           | 10.5.23  | [Recording](https://youtu.be/S-ubWKYYrHg)  |
-| Intro to Frontend Development | 10.11.23 | [Recording](https://youtu.be/rizgPX4mnYI)  |
+| Topic                         |   Date   |                   Link                    |
+|-------------------------------|:--------:|:-----------------------------------------:|
+| Syllabus                      | 10.2.23  | [Recording](https://youtu.be/qZD5EhHtseg) |
+| CLI                           | 10.5.23  | [Recording](https://youtu.be/S-ubWKYYrHg) |
+| Intro to Frontend Development | 10.11.23 | [Recording](https://youtu.be/rizgPX4mnYI) |
+| Intro to Javascript           | 10.16.23 | [Recording](https://youtu.be/25iJeH93iwk) |
 
 
 ## Schedule
