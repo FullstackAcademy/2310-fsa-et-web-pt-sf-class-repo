@@ -1,0 +1,26 @@
+html, body {
+    margin: 0;
+    height: 100%;
+}
+
+main {
+    display: flex;
+    flex-wrap: wrap;
+    height: 100%;
+}
+
+.header, .footer {
+    background-color: gray;
+    flex: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+
+.sidebar-1, .article, .sidebar-2 {
+    flex: calc(100% / 3 - 10px);
+    background-color: gray;
+    margin-right: 10px;
+    margin-bottom: 30px;
+}

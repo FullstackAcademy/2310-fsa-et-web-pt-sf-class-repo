@@ -1,0 +1,38 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    background-color: orange;
+    flex-wrap: wrap;
+}
+
+.box1, .box2 {
+    flex: 50%;
+}
+
+.box3 {
+    background-color: red;
+    flex: 30%;
+}
+
+.box4 {
+    flex: 70%;
+    background-color: blue;
+}
+
+@media screen and (min-width: 390px) {
+    .container {
+        flex-direction: column;
+    }
+}
+
+@media screen and (min-width: 500px) and (max-width: 800px) {
+    .container {
+        flex-direction: column;
+    }
+}
+
+@media screen and (min-width: 1020px) {
+    .container {
+        flex-direction: column;
+    }
+}
