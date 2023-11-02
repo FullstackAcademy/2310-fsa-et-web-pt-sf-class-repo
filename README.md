@@ -12,7 +12,8 @@ This is our class repository. As class goes on, video links to lectures, code fr
 | Intro to Javascript           | 10.16.23 | [Recording](https://youtu.be/25iJeH93iwk) |
 | Dev Work                      | 10.19.23 | [Recording](https://youtu.be/uv5w95MJlas) |
 | Github & Git                  | 10.26.23 | [Recording](https://youtu.be/UK3ZFEYVq-k) |
-
+| Statements, Conditionals, and Functions  | 10.30.23 | [Recording](https://youtu.be/K7QdBewUQxQ) |
+| Loops and Arrays  | 11.1.23 | [Recording](https://youtu.be/33sGihIi6Ww) |
 
 ## Schedule
 
