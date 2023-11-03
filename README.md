@@ -14,6 +14,7 @@ This is our class repository. As class goes on, video links to lectures, code fr
 | Github & Git                  | 10.26.23 | [Recording](https://youtu.be/UK3ZFEYVq-k) |
 | Statements, Conditionals, and Functions  | 10.30.23 | [Recording](https://youtu.be/K7QdBewUQxQ) |
 | Loops and Arrays  | 11.1.23 | [Recording](https://youtu.be/33sGihIi6Ww) |
+| Objects  | 11.2.23 | [Recording](https://youtu.be/PmXbiZSkVI0) |
 
 ## Schedule
 
