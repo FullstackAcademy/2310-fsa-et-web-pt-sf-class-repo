@@ -4,22 +4,23 @@ This is our class repository. As class goes on, video links to lectures, code fr
 
 ## Recordings
 
-| Topic                         |   Date   |                   Link                    |
-|-------------------------------|:--------:|:-----------------------------------------:|
-| Syllabus                      | 10.2.23  | [Recording](https://youtu.be/qZD5EhHtseg) |
-| CLI                           | 10.5.23  | [Recording](https://youtu.be/S-ubWKYYrHg) |
-| Intro to Frontend Development | 10.11.23 | [Recording](https://youtu.be/rizgPX4mnYI) |
-| Intro to Javascript           | 10.16.23 | [Recording](https://youtu.be/25iJeH93iwk) |
-| Dev Work                      | 10.19.23 | [Recording](https://youtu.be/uv5w95MJlas) |
-| Github & Git                  | 10.26.23 | [Recording](https://youtu.be/UK3ZFEYVq-k) |
-| Statements, Conditionals, and Functions  | 10.30.23 | [Recording](https://youtu.be/K7QdBewUQxQ) |
-| Loops and Arrays  | 11.1.23 | [Recording](https://youtu.be/33sGihIi6Ww) |
-| Objects  | 11.2.23 | [Recording](https://youtu.be/PmXbiZSkVI0) |
+| Topic                                   |   Date   |                           Link                           |
+| --------------------------------------- | :------: | :------------------------------------------------------: |
+| Syllabus                                | 10.2.23  |        [Recording](https://youtu.be/qZD5EhHtseg)         |
+| CLI                                     | 10.5.23  |        [Recording](https://youtu.be/S-ubWKYYrHg)         |
+| Intro to Frontend Development           | 10.11.23 |        [Recording](https://youtu.be/rizgPX4mnYI)         |
+| Intro to Javascript                     | 10.16.23 |        [Recording](https://youtu.be/25iJeH93iwk)         |
+| Dev Work                                | 10.19.23 |        [Recording](https://youtu.be/uv5w95MJlas)         |
+| Github & Git                            | 10.26.23 |        [Recording](https://youtu.be/UK3ZFEYVq-k)         |
+| Statements, Conditionals, and Functions | 10.30.23 |        [Recording](https://youtu.be/K7QdBewUQxQ)         |
+| Loops and Arrays                        | 11.1.23  |        [Recording](https://youtu.be/33sGihIi6Ww)         |
+| Objects                                 | 11.2.23  |        [Recording](https://youtu.be/PmXbiZSkVI0)         |
+| Array Methods                           | 11.5.23  | [Recording](https://www.youtube.com/watch?v=s4yy9mY2XNc) |
 
 ## Schedule
 
 | Week | Date     | Lesson                                                          |
-|:----:|----------|-----------------------------------------------------------------|
+| :--: | -------- | --------------------------------------------------------------- |
 |  1   | 10/2/23  | Block 1: Orientation                                            |
 |      | 10/4/23  | Block 2: My First Website                                       |
 |      | 10/5/23  | Block 3: Command Line Interface                                 |
