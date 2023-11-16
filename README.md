@@ -19,6 +19,7 @@ This is our class repository. As class goes on, video links to lectures, code fr
 | Classes                                 | 11.8.23  | [Recording](https://youtu.be/OFxGkeZFLBM) |
 | Testing                                 | 11.9.23  | [Recording](https://youtu.be/92DmVRz9sxU) |
 | Review 1                                | 11.13.23 | [Recording](https://youtu.be/VFbBaP9oSsA) |
+| DOM                                     | 11.15.23 | [Recording](https://youtu.be/DsAkrl12AIs) |
 
 ## Schedule
 
