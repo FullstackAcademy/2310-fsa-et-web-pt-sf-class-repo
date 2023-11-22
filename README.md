@@ -5,7 +5,7 @@ This is our class repository. As class goes on, video links to lectures, code fr
 ## Recordings
 
 | Topic                                   |   Date   |                   Link                    |
-|-----------------------------------------|:--------:| :---------------------------------------: |
+| --------------------------------------- | :------: | :---------------------------------------: |
 | Syllabus                                | 10.2.23  | [Recording](https://youtu.be/qZD5EhHtseg) |
 | CLI                                     | 10.5.23  | [Recording](https://youtu.be/S-ubWKYYrHg) |
 | Intro to Frontend Development           | 10.11.23 | [Recording](https://youtu.be/rizgPX4mnYI) |
@@ -20,6 +20,7 @@ This is our class repository. As class goes on, video links to lectures, code fr
 | Testing                                 | 11.9.23  | [Recording](https://youtu.be/92DmVRz9sxU) |
 | Review 1                                | 11.13.23 | [Recording](https://youtu.be/VFbBaP9oSsA) |
 | DOM                                     | 11.15.23 | [Recording](https://youtu.be/DsAkrl12AIs) |
+| Events                                  | 11.20.23 | [Recording](https://youtu.be/k69veKtTgMw) |
 
 ## Schedule
 

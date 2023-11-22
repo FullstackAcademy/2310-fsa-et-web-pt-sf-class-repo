@@ -3,7 +3,7 @@ Alcaraz, Javier : 0
 Badell, Roy : 0
 Bobadilla, Monica : 0
 Brown, Matthew : 1
-Carouthers, Stephen : 1
+Carouthers, Stephen : 2
 Charles, Marc : 1
 Choi, Jennie : 0
 cooper, marcus : 0
@@ -14,11 +14,11 @@ Fang, Zi : 1
 Fuller, John : 0
 Garcia, Jason : 1
 Gomez, Eduardo : 0
-Gonzalez, Alexis : 0
+Gonzalez, Alexis : 1
 Haynes, Ethan : 0
 Hernandez, Tony : 0
 herrera, mario jr : 0
-Hinson, Jon : 0
+Hinson, Jon : 1
 Johnson, Troy : 0
 Jones, Monica : 0
 Julio, Isaias : 0
@@ -27,7 +27,7 @@ King, Andrew : 0
 landrum, timothy : 0
 Lee, Mo : 0
 Lott, Clayton : 0
-Martinez, Victor : 1
+Martinez, Victor : 2
 Maynard, Khiry : 0
 Mekmueangthong, Santiparp : 1
 Mullai, Midhat : 0
@@ -35,7 +35,7 @@ Munoz, Jordan : 0
 noel, marquez : 0
 Nugent, Christopher : 1
 Peterson, Hisashi : 0
-Regmi, Sarvesh : 1
+Regmi, Sarvesh : 2
 Richards, Keevin : 0
 Rivera, Moises : 0
 Shogan, Gregory : 0
