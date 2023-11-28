@@ -21,6 +21,8 @@ This is our class repository. As class goes on, video links to lectures, code fr
 | Review 1                                | 11.13.23 | [Recording](https://youtu.be/VFbBaP9oSsA) |
 | DOM                                     | 11.15.23 | [Recording](https://youtu.be/DsAkrl12AIs) |
 | Events                                  | 11.20.23 | [Recording](https://youtu.be/k69veKtTgMw) |
+| Modules/Writing JavaScript Tests        | 11.22.23 |               [Recording]()               |
+| Async Await                             | 11.27.23 | [Recording](https://youtu.be/yOf8refPuh4) |
 
 ## Schedule
 
