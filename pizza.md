@@ -2,19 +2,19 @@ Aguilar, Luis : 0
 Alcaraz, Javier : 0
 Badell, Roy : 0
 Bobadilla, Monica : 0
-Brown, Matthew : 1
-Carouthers, Stephen : 2
+Brown, Matthew : 2
+Carouthers, Stephen : 3
 Charles, Marc : 1
 Choi, Jennie : 0
 cooper, marcus : 0
 Daniels, Vanessa : 0
-Davila, Jonathan : 0
-Disylvestro, Angel : 0
+Davila, Jonathan : 1
+Disylvestro, Angel : 1
 Fang, Zi : 1
 Fuller, John : 0
 Garcia, Jason : 1
 Gomez, Eduardo : 0
-Gonzalez, Alexis : 1
+Gonzalez, Alexis : 2
 Haynes, Ethan : 0
 Hernandez, Tony : 0
 herrera, mario jr : 0
@@ -27,7 +27,7 @@ King, Andrew : 0
 landrum, timothy : 0
 Lee, Mo : 0
 Lott, Clayton : 0
-Martinez, Victor : 2
+Martinez, Victor : 4
 Maynard, Khiry : 0
 Mekmueangthong, Santiparp : 1
 Mullai, Midhat : 0
