@@ -29,6 +29,20 @@ const getAllRecipes = async () => {
     }
 };
 
+const fetchResource = async () => {
+    try {
+        const response = await fetch(`${CLASS_URL}/${state.resource}/${state.resourceId}`);
+        const json = await response.json();
+
+        return json.data;
+    } catch (e) {
+        console.log(`Failed to get ${state.resource} ${state.resourceId}.`);
+        console.error(e);
+
+        return null;
+    }
+}
+
 const clearDOM = () => {
     // NOTE: Wipe the application clean.
     document.body.removeChild(app);
@@ -88,20 +102,6 @@ const createRecipeList = (recipes) => {
     return list;
 };
 
-const fetchResource = async () => {
-    try {
-        const response = await fetch(`${CLASS_URL}/${state.resource}/${state.resourceId}`);
-        const json = await response.json();
-
-        return json.data;
-    } catch (e) {
-        console.log(`Failed to get ${state.resource} ${state.resourceId}.`);
-        console.error(e);
-
-        return null;
-    }
-}
-
 const createCodeBlock = (text) => {
     const code = document.createElement('code');
 
@@ -133,26 +133,7 @@ const render = () => {
     app.appendChild(createRecipeList(state.allRecipes));
 };
 
-window.addEventListener('hashchange', () => {
-    const path = decodeURIComponent(window.location.hash.slice(1));
-
-    const parts = path.split('/');
-
-    // /recipes/123
-    const resource = parts[1];
-
-    state.resource = resource;
-
-    const resourceId = parts[2];
-
-    state.resourceId = resourceId;
-
-    render();
-});
-
-const startApp = async () => {
-    const recipes = await getAllRecipes();
-
+const manageHash = () => {
     state.allRecipes = recipes;
 
     const path = decodeURIComponent(window.location.hash.slice(1));
@@ -160,6 +141,7 @@ const startApp = async () => {
     const parts = path.split('/');
 
     // /recipes/123
+    // squirtle yolo yahtzee
     const resource = parts[1];
 
     state.resource = resource;
@@ -167,6 +149,18 @@ const startApp = async () => {
     const resourceId = parts[2];
 
     state.resourceId = resourceId;
+}
+
+window.addEventListener('hashchange', () => {
+    manageHash();
+
+    render();
+});
+
+const startApp = async () => {
+    const recipes = await getAllRecipes();
+
+    manageHash();
 
     render();
 };
