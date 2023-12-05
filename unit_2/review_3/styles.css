@@ -1,0 +1,23 @@
+#content-container {
+    display: flex;
+    gap: 30px;
+    flex-wrap: wrap;
+}
+
+.card {
+    height: 400px;
+    width: 300px;
+    background-color: gray;
+    padding: 10px;
+    border-radius: 4px;
+}
+
+.card-img {
+    height: 300px;
+    width: 300px;
+    border-radius: 4px;
+}
+
+.hide {
+    display: none;
+}

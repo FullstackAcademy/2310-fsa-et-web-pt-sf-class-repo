@@ -66,7 +66,3 @@ document.getElementById('deleteBtn').addEventListener('click', async function(){
 document.getElementById('updateBtn').addEventListener('click', async function(){
     await updateRecipie(571);
 });
-
-
-// apis
-// get, post, update, delete
