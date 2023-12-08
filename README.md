@@ -23,6 +23,7 @@ This is our class repository. As class goes on, video links to lectures, code fr
 | Events                                  | 11.20.23 | [Recording](https://youtu.be/k69veKtTgMw) |
 | Modules/Writing JavaScript Tests        | 11.22.23 |               [Recording]()               |
 | Async Await                             | 11.27.23 | [Recording](https://youtu.be/yOf8refPuh4) |
+| Review 2 (DOM, APIS)                    | 12.04.23 | [Recording](https://youtu.be/VMoZb6-RzFk?si=OIdK3KFs3iySta9K) |
 
 ## Schedule
 
