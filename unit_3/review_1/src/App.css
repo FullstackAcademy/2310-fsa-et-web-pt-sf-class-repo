@@ -1,0 +1,30 @@
+.todo-container {
+    background-color: beige;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.addTodo-container {
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    gap: 10px;
+}
+
+.listItem-container {
+    display: flex;
+    background-color: white;
+    width: 500px;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+.completed {
+    text-decoration: line-through;
+}
