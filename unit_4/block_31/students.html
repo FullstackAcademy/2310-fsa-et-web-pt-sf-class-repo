@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Students</title>
+  </head>
+  <body>
+    <h1>Students</h1>
+  </body>
+
+  <script>
+    fetch('/api/names').then(response => response.json()).then((data) => {
+        for(let i =0; i < data.length; i++){
+            const pTag = document.createElement('p');
+            pTag.innerText = data[i];
+            document.querySelector('body').append(pTag);
+        }
+    })
+  </script>
+</html>
