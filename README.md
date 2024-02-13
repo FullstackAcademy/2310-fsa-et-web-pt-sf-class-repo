@@ -24,7 +24,8 @@ This is our class repository. As class goes on, video links to lectures, code fr
 | Modules/Writing JavaScript Tests        | 11.22.23 |               [Recording]()               |
 | Async Await                             | 11.27.23 | [Recording](https://youtu.be/yOf8refPuh4) |
 | Review 2 (DOM, APIS)                    | 12.04.23 | [Recording](https://youtu.be/VMoZb6-RzFk?si=OIdK3KFs3iySta9K) |
-| Fetching Data and useEffect                    | 12.18.23 | [Recording](https://youtu.be/x76YR84UnNo) |
+| Fetching Data and useEffect             | 12.18.23 | [Recording](https://youtu.be/x76YR84UnNo) |
+| Prisma                                  | 02.12.24 | [Recording](https://youtu.be/0hkqpO2hpyc) |
 
 ## Schedule
 
