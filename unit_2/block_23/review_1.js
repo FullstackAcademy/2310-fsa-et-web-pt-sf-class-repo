@@ -111,7 +111,7 @@ const render = () => {
     submitName.addEventListener('click', () => {
         state.names.push(state.name);
         state.name = '';
-        nameInput.value = '';
+        nameInput.value = state.name;
         render();
     });
 
