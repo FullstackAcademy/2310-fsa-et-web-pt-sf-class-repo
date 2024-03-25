@@ -81,12 +81,5 @@ function locateMinValue() {
 const values = [];
 
 function accumulateTree(child) {
-    if (!child) {
-        return;
-    }
 
-    values.push(child.value);
-
-    accumulateTree(child.left);
-    accumulateTree(child.right);
 }
